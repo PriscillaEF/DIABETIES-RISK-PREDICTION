@@ -22,3 +22,5 @@ This project develops an end-to-end machine learning pipeline to predict diabete
 - scikit-learn
 - XGBoost
 - matplotlib, seaborn
+
+Disclaimer⚠️: All datasets, info and reports in this repository do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual. All info are dummy and design to demonstrate my capabilities in advance predictive ML modeling.
